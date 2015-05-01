@@ -8,7 +8,7 @@ github_username:  "knowledgetranslation"
 lang: "en-CA"
 
 # Build settings
-markdown: Marktown
+# markdown: Marktown
 permalink: title
 
 
