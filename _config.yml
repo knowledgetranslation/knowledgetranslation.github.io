@@ -1,0 +1,14 @@
+# Site settings
+title: "Knowledge Translation"
+email: "david@davidnewton.ca"
+description: ""
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://knowledgetranslation.github.io" # the base hostname & protocol for your site
+github_username:  "knowledgetranslation"
+lang: "en-CA"
+
+# Build settings
+markdown: Marktown
+permalink: title
+
+
